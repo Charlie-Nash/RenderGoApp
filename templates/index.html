@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Vendedores</title>
+</head>
+<body>
+    <h1>Lista de Vendedores</h1>
+    <ul>
+        {{range .}}
+            <li>{{.ID}} - {{.Nombre}}</li>
+        {{end}}
+    </ul>
+</body>
+</html>
