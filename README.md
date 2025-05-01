@@ -1,4 +1,4 @@
-# Go Web Application with PostgreSQL
+# Aplicación Web Go con PostgreSQL en Render.com
 
 Este es un proyecto de ejemplo en Go que se conecta a una base de datos PostgreSQL en Render y muestra una lista de vendedores en una página simple. El proyecto usa la estructura básica de Go y una plantilla HTML para renderizar la información.
 
